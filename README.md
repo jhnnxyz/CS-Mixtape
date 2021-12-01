@@ -1,6 +1,6 @@
-# The Art of Computer Science
+# Computer Science Mix Tape
 
-Computer Science concepts from first principles. 
+Opinionated Computer Science concepts from first principles. 
 
 ## Intro
 
@@ -15,3 +15,6 @@ But for all the good they have done us, computers are really just dumb machines.
 The goal of this repo is to empower you to teach computers to solve problems. As you may know, computers execute your instructions precisely, even your mistakes. And by necessity, you must be more precise and intentional than you may be used to. 
 
 Although this repo should be language-agnostic, I use Python to convey computer science ideas. This might change in the future though. 
+
+## Table of Contents
+
